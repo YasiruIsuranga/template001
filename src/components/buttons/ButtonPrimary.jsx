@@ -21,6 +21,6 @@ const ButtonPrimary = ({ onClick, children }) => {
 export default ButtonPrimary;
 
 ButtonPrimary.propTypes = {
-    onClick: PropTypes.func,
-    children: PropTypes.node,
+  onClick: PropTypes.func,
+  children: PropTypes.node,
 };
